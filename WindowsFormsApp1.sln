@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{61C06734-8445-413E-8578-3B108A7A13C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temparature", "..\Temparature\Temparature.csproj", "{5F9F582B-3C41-44DF-810C-C72B7B6F17B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C06734-8445-413E-8578-3B108A7A13C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C06734-8445-413E-8578-3B108A7A13C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C06734-8445-413E-8578-3B108A7A13C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C06734-8445-413E-8578-3B108A7A13C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9F582B-3C41-44DF-810C-C72B7B6F17B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9F582B-3C41-44DF-810C-C72B7B6F17B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9F582B-3C41-44DF-810C-C72B7B6F17B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9F582B-3C41-44DF-810C-C72B7B6F17B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5D25ED-EBC4-4D6C-9C7F-9E59F7B588BF}
+	EndGlobalSection
+EndGlobal

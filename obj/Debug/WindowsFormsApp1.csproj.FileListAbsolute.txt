@@ -1,0 +1,10 @@
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
